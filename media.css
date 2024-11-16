@@ -1,0 +1,34 @@
+@media (max-width: 600px){
+
+    body{
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+       
+    }
+    nav h1{
+        font-size: 5vw;
+      
+    }
+    nav .navR span{
+        display: none;
+
+    }
+    nav .navR i{
+        display: initial;
+        font-size: 5vw;
+    }
+    .div{
+        display: block;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+       
+    }
+    .div .divR .inner{
+        background-color: red;
+        
+    }
+    
+    
+}
